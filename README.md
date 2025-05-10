@@ -9,6 +9,7 @@ I'm learning GitHub and improving my skills in Python, Tableau, and Power BI. Pa
 - Power BI
 - Python
 - GitHub
+- SQL
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
